@@ -37,9 +37,9 @@
 # 📖 Central Cinema Trends - JavaScript capstone project - Your API-based webapp<a name="about-project"></a>
 
 
-**Central Cinema Trends** is a webapp that shows you the most popular movies. We built this webapp as part of our currently studies at Microverse in the Full-Stack Web Development program. This is our JavaScript capstone project. To Build this web application we use an external API provided by [The Movie DB](https://www.themoviedb.org/). 
+**Central Cinema Trends** is a webapp that shows you the most popular movies. We built this webapp as part of our current studies at Microverse's Full-Stack Web Development program. This is our JavaScript capstone project. To build this web application we used an external API provided by [The Movie DB](https://www.themoviedb.org/). 
 
-In this web application, users can interact whit it, posting comments and given likes for each movie. To do that, we use the [Involvement API](https://www.notion.so/microverse/Involvement-API-869e60b5ad104603aa6db59e08150270) provided by Microverse.
+In this web application, users can interact with it, post comments and given likes for each movie. To do that, we use the [Involvement API](https://www.notion.so/microverse/Involvement-API-869e60b5ad104603aa6db59e08150270) provided by Microverse.
 
 
 ## 🛠 Built With <a name="built-with"></a>
